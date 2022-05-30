@@ -1,0 +1,1 @@
+<span><?php echo e($time); ?></span><?php /**PATH E:\FDM Downloads\2022-05-30\codecanyon-JLlN8pi2-qr-menu-maker-saas-contactless-restaurant-menus\resources\views/orders/partials/time.blade.php ENDPATH**/ ?>
